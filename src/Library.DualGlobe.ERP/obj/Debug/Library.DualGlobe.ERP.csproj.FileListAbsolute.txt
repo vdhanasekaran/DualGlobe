@@ -1,0 +1,12 @@
+C:\DualGlobe\src\Library.DualGlobe.ERP\bin\Debug\Library.DualGlobe.ERP.dll.config
+C:\DualGlobe\src\Library.DualGlobe.ERP\bin\Debug\Library.DualGlobe.ERP.dll
+C:\DualGlobe\src\Library.DualGlobe.ERP\bin\Debug\Library.DualGlobe.ERP.pdb
+C:\DualGlobe\src\Library.DualGlobe.ERP\bin\Debug\EntityFramework.dll
+C:\DualGlobe\src\Library.DualGlobe.ERP\bin\Debug\EntityFramework.SqlServer.dll
+C:\DualGlobe\src\Library.DualGlobe.ERP\bin\Debug\EntityFramework.xml
+C:\DualGlobe\src\Library.DualGlobe.ERP\bin\Debug\EntityFramework.SqlServer.xml
+C:\DualGlobe\src\Library.DualGlobe.ERP\obj\Debug\Library.DualGlobe.ERP.csproj.CoreCompileInputs.cache
+C:\DualGlobe\src\Library.DualGlobe.ERP\obj\Debug\Library.DualGlobe.ERP.csproj.CopyComplete
+C:\DualGlobe\src\Library.DualGlobe.ERP\obj\Debug\Library.DualGlobe.ERP.dll
+C:\DualGlobe\src\Library.DualGlobe.ERP\obj\Debug\Library.DualGlobe.ERP.pdb
+C:\DualGlobe\src\Library.DualGlobe.ERP\obj\Debug\Library.DualGlobe.ERP.csproj.AssemblyReference.cache

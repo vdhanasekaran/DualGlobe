@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "022d1ec2-002f-4d29-ac46-156ea17eb7f8": {
+      "ProjectGuid": "022d1ec2-002f-4d29-ac46-156ea17eb7f8",
+      "DisplayName": "DualGlobe.ERP",
+      "ColorIndex": 0
+    },
+    "452a7f98-aef8-4e81-bccf-d569a369534e": {
+      "ProjectGuid": "452a7f98-aef8-4e81-bccf-d569a369534e",
+      "DisplayName": "Library.DualGlobe.ERP",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
